@@ -24,6 +24,7 @@ Welcome to BHA 3. We will start with a short history of the Biohacking field. Ne
     * [Tube Rack OpenSCAD Demo file](/bha3/class/1/files/TubeRack.scad)
     * [Sketchup SVG Export video](https://vimeo.com/album/3816400/video/156577776)
   * Principles of electronics
+    * [Principles of Electronics](/bha3/class/1/pdf/Principles of Electronics.pdf)
   * [Sterile Hood Assembly](https://github.com/BioHackAcademy/BHA_SterileHood/blob/master/SterileHood-Assembly.pdf)
 
 ## Devices
